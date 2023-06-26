@@ -7,7 +7,7 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "tag-editor-2",
+    "productName": "tauri-1.4-starter",
     "version": "../package.json"
   },
   "tauri": {
@@ -37,7 +37,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "tag-editor-2",
+        "title": "tauri-1.4-starter",
         "width": 800,
         "height": 600
       }
